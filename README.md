@@ -3,8 +3,16 @@
 整理的公司包括：腾讯、美团、蘑菇街、神策数据、微众、陌陌、网易互娱、招商银行、头条、华为、网易游戏、网易云音乐、今日头条、大疆、阿里、商汤、51信用卡、京东、顺丰、携程、蚂蚁金服、网易杭研所、好未来、滴滴、第四范式、vivo，海康威视、字节跳动、GrowingIO（排名不分先后）
 
 
-
+# 参考博客
+- ["大数据工程师"和"java后台开发"的技术要求有什么区别？](http://blog.itpub.net/69903766/viewspace-2286635/)
+- [当我说要做大数据工程师时他们都笑我，直到三个月后……](https://blog.csdn.net/GitChat/article/details/78341484)
+- [你们是不是很缺大数据工程师？](https://www.jianshu.com/p/b61a3a13c64b)
+- [漫谈数据开发工程师的技术广度](https://juejin.im/post/5ad85238f265da5033333e63)
+- [这两年在大数据行业中的工作总结](http://blog.jobbole.com/114185/)
+- [三个月成为大数据工程师，你需要具备什么条件？](https://www.cnblogs.com/luminji/p/7824831.html)
 - [技术好文 | 携程技术专家：从事大数据，你需要掌握这些技能！](https://www.nowcoder.com/discuss/28449)
+
+
 
 ### 腾讯
 -  [腾讯游戏数据挖掘实习一面](https://www.nowcoder.com/discuss/160713)
@@ -186,6 +194,7 @@
 
 - [顺丰科技一面面经（内推--大数据挖掘与分析岗）](https://www.nowcoder.com/discuss/88818)
 - [顺丰科技数据分析hr面](https://www.nowcoder.com/discuss/39344)
+- [2018顺丰内推面经](http://www.voidcn.com/article/p-zaxhulyj-bod.html)
 
 ### YY
 
