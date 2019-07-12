@@ -131,6 +131,7 @@
 - [数据分析日常实习面经分享](https://www.nowcoder.com/discuss/191248)
 - [字节跳动数据分析日常实习](https://www.nowcoder.com/discuss/192184)
 - [字节跳动 数据分析日常实习面经](https://www.nowcoder.com/discuss/193306)
+- [字节跳动提前批](https://www.nowcoder.com/discuss/204677)
 
 
 ### 华为
@@ -232,6 +233,7 @@
 - [10.8杭州vivo数据分析经理面经](https://www.nowcoder.com/discuss/124269)
 - [vivo数据分析面经](https://www.nowcoder.com/discuss/160549)
 - [vivo数据分析经理春招笔经、面经](https://www.nowcoder.com/discuss/162741)
+- [vivo成都大数据](https://www.nowcoder.com/discuss/198629)
 
 ### 大疆
 
@@ -257,7 +259,8 @@
 ### GrowingIO
 - [GrowingIO Scala研发面试及对测试开发个人看法](https://www.nowcoder.com/discuss/164080)
 
-
+### 多易网络
+- [多益网络-人工智能与大数据-笔试](https://www.nowcoder.com/discuss/201865)
 
 ### 微播易
 
