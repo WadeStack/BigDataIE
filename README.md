@@ -101,9 +101,6 @@
 
 - [快手数据分析-2018届春招校招](https://www.nowcoder.com/discuss/80464)
 
-### 宇宙条
-
-- [宇宙条数据分析实习面经](https://www.nowcoder.com/discuss/143595)
 
 ### 度小满
 
@@ -131,6 +128,7 @@
 - [字节跳动数据分析日常实习](https://www.nowcoder.com/discuss/192184)
 - [字节跳动 数据分析日常实习面经](https://www.nowcoder.com/discuss/193306)
 - [字节跳动提前批](https://www.nowcoder.com/discuss/204677)
+- [宇宙条数据分析实习面经](https://www.nowcoder.com/discuss/143595)
 
 
 ### 华为
