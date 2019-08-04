@@ -1,54 +1,53 @@
-   * [大数据面经]()
-   * [参考博客]()
-     * [腾讯]()
-     * [美团]()
-     * [神策数据]()
-     * [蘑菇街]()
-     * [微众]()
-     * [陌陌]()
-     * [唯品会]()
-     * [珍珠网]()
-     * [网易]()
-     * [58]()
-     * [招商银行]()
-     * [快手]()
-     * [度小满]()
-     * [头条/字节跳动]()
-     * [华为]()
-     * [Paypal]()
-     * [猿辅导]()
-     * [搜狐]()
-     * [饿了么]()
-     * [拼多多]()
-     * [阿里巴巴]()
-     * [51信用卡]()
-     * [京东]()
-     * [携程]()
-     * [顺丰]()
-     * [YY]()
-     * [蚂蚁金服]()
-     * [第四范式]()
-     * [海康威视]()
-     * [好未来]()
-     * [OPPO]()
-     * [VIVO]()
-     * [大疆]()
-     * [趣店]()
-     * [吉比特]()
-     * [360]()
-     * [滴滴]()
-     * [GrowingIO]()
-     * [多易网络]()
-     * [微播易]()
-     * [个人面多公司]()
+- [参考博客](#参考博客)
+- [笔试真题](#笔试真题)
+- [大数据面经](#大数据面经)
+  - [腾讯](#腾讯)
+  - [美团](#美团)
+  - [神策数据](#神策数据)
+  - [蘑菇街](#蘑菇街)
+  - [微众](#微众)
+  - [陌陌](#陌陌)
+  - [唯品会](#唯品会)
+  - [珍珠网](#珍珠网)
+  - [网易](#网易)
+  - [58](#58)
+  - [招商银行](#招商银行)
+  - [快手](#快手)
+  - [度小满](#度小满)
+  - [头条/字节跳动](#头条字节跳动)
+  - [华为](#华为)
+  - [Paypal](#paypal)
+  - [猿辅导](#猿辅导)
+  - [搜狐](#搜狐)
+  - [饿了么](#饿了么)
+  - [拼多多](#拼多多)
+  - [阿里巴巴](#阿里巴巴)
+  - [51信用卡](#51信用卡)
+  - [京东](#京东)
+  - [携程](#携程)
+  - [顺丰](#顺丰)
+  - [YY](#yy)
+  - [蚂蚁金服](#蚂蚁金服)
+  - [第四范式](#第四范式)
+  - [海康威视](#海康威视)
+  - [好未来](#好未来)
+  - [OPPO](#oppo)
+  - [VIVO](#vivo)
+  - [大疆](#大疆)
+  - [趣店](#趣店)
+  - [吉比特](#吉比特)
+  - [360](#360)
+  - [滴滴](#滴滴)
+  - [GrowingIO](#growingio)
+  - [多易网络](#多易网络)
+  - [微播易](#微播易)
+  - [祖龙娱乐](#祖龙娱乐)
+  - [个人面多公司](#个人面多公司)
 
-
-# 大数据面经
-
-整理的公司包括：腾讯、美团、蘑菇街、神策数据、微众、陌陌、网易互娱、招商银行、头条、华为、网易游戏、网易云音乐、今日头条、大疆、阿里、商汤、51信用卡、京东、顺丰、携程、蚂蚁金服、网易杭研所、好未来、滴滴、第四范式、vivo，海康威视、字节跳动、GrowingIO（排名不分先后）
 
 
 # 参考博客
+
 - ["大数据工程师"和"java后台开发"的技术要求有什么区别？](http://blog.itpub.net/69903766/viewspace-2286635/)
 - [你们是不是很缺大数据工程师？](https://www.jianshu.com/p/b61a3a13c64b)
 - [漫谈数据开发工程师的技术广度](https://juejin.im/post/5ad85238f265da5033333e63)
@@ -56,26 +55,33 @@
 - [三个月成为大数据工程师，你需要具备什么条件？](https://www.cnblogs.com/luminji/p/7824831.html)
 - [技术好文 | 携程技术专家：从事大数据，你需要掌握这些技能！](https://www.nowcoder.com/discuss/28449)
 
+# 笔试真题
 
+- [数据挖掘工程师历年企业笔试真题汇总](https://www.nowcoder.com/discuss/211149)
+- [DBA（数据分析，数据库，大数据等）相关历年公司笔试真题汇总](https://www.nowcoder.com/discuss/211242)
+- [大数据工程师历年企业笔试真题汇总](https://www.nowcoder.com/discuss/211222)
+
+# 大数据面经
+
+整理的公司包括：腾讯、美团、蘑菇街、神策数据、微众、陌陌、网易互娱、招商银行、头条、华为、网易游戏、网易云音乐、今日头条、大疆、阿里、商汤、51信用卡、京东、顺丰、携程、蚂蚁金服、网易杭研所、好未来、滴滴、第四范式、vivo，海康威视、字节跳动、GrowingIO（排名不分先后）
 
 ### 腾讯
--  [腾讯游戏数据挖掘实习一面](https://www.nowcoder.com/discuss/160713)
--  [腾讯数据分析笔试题目](https://www.nowcoder.com/discuss/72275)
--  [腾讯开发岗—数据分析师实习](https://www.nowcoder.com/discuss/72300)
--  [腾讯数据分析面经](https://www.nowcoder.com/discuss/130837)
--  [腾讯春招 数据分析 一面分享](https://www.nowcoder.com/discuss/160306)
--  [腾讯 数据分析补招 一面](https://www.nowcoder.com/discuss/163237)
--  [腾讯数据分析实习生一面](https://www.nowcoder.com/discuss/163386)
--  [阿里暑期实习数据分析师一面二面面经](https://www.nowcoder.com/discuss/174203)
--  [腾讯 数据分析 面经](https://www.nowcoder.com/discuss/181943)
--  [腾讯数据分析一面面经](https://www.nowcoder.com/discuss/182214)
+
+- [腾讯游戏数据挖掘实习一面](https://www.nowcoder.com/discuss/160713)
+- [腾讯数据分析笔试题目](https://www.nowcoder.com/discuss/72275)
+- [腾讯开发岗—数据分析师实习](https://www.nowcoder.com/discuss/72300)
+- [腾讯数据分析面经](https://www.nowcoder.com/discuss/130837)
+- [腾讯春招 数据分析 一面分享](https://www.nowcoder.com/discuss/160306)
+- [腾讯 数据分析补招 一面](https://www.nowcoder.com/discuss/163237)
+- [腾讯数据分析实习生一面](https://www.nowcoder.com/discuss/163386)
+- [阿里暑期实习数据分析师一面二面面经](https://www.nowcoder.com/discuss/174203)
+- [腾讯 数据分析 面经](https://www.nowcoder.com/discuss/181943)
+- [腾讯数据分析一面面经](https://www.nowcoder.com/discuss/182214)
 
 ### 美团
 
 - [美团机器学习/数据挖掘电面一面面经](https://www.nowcoder.com/discuss/188218)
-
 - [美团二面已跪但是我不服](https://www.nowcoder.com/discuss/36835)
-
 - [美团机器学习/数据挖掘视频面三面面经](https://www.nowcoder.com/discuss/193278)
 
 
@@ -93,7 +99,6 @@
 - [蘑菇街渣渣一面](https://www.nowcoder.com/discuss/183354)
 - [蘑菇街面经：数据分析岗，已经拿到offer了](https://www.nowcoder.com/discuss/65535)
 - [热乎乎的蘑菇街数据分析二面](https://www.nowcoder.com/discuss/179597)
-
 
 ### 微众
 
@@ -138,6 +143,7 @@
 - [58数据分析面经，0offer攒人品！！！！](https://www.nowcoder.com/discuss/121791)
 
 ### 招商银行
+
 - [招银电面](https://www.nowcoder.com/discuss/11148)
 - [招行信用卡视频面试（大数据](https://www.nowcoder.com/discuss/177281)
 - [招银科技电话一面面经](https://www.nowcoder.com/discuss/10425)
@@ -145,7 +151,6 @@
 ### 快手
 
 - [快手数据分析-2018届春招校招](https://www.nowcoder.com/discuss/80464)
-
 
 ### 度小满
 
@@ -174,7 +179,9 @@
 - [字节跳动 数据分析日常实习面经](https://www.nowcoder.com/discuss/193306)
 - [字节跳动提前批](https://www.nowcoder.com/discuss/204677)
 - [宇宙条数据分析实习面经](https://www.nowcoder.com/discuss/143595)
-
+- [字节跳动（提前批）二面](https://www.nowcoder.com/discuss/210332)
+- [字节跳动大数据开发](https://www.nowcoder.com/discuss/207114)
+- [字节跳动提前批 大数据面经 = =](https://www.nowcoder.com/discuss/204677)
 
 ### 华为
 
@@ -201,15 +208,16 @@
 - [饿了么数据分析师三面面经](https://www.nowcoder.com/discuss/60438)
 
 ### 拼多多
+
 - [拼多多数据分析二面面经](https://www.nowcoder.com/discuss/34318)
 - [拼多多数据分析一面](https://www.nowcoder.com/discuss/121743)
-
 
 ### 阿里巴巴
 
 - [阿里 数据研发 九面面经 内推转校招 精](https://www.nowcoder.com/discuss/41091)
 - [阿里数据分析暑期实习面](https://www.nowcoder.com/discuss/179290)
 - [阿里巴巴数据研发电话一面](https://www.nowcoder.com/discuss/187659)
+- [阿里大数据平台一面面经](https://www.nowcoder.com/discuss/210776)
 
 ### 51信用卡
 
@@ -238,6 +246,7 @@
 - [顺丰科技一面面经（内推--大数据挖掘与分析岗）](https://www.nowcoder.com/discuss/88818)
 - [顺丰科技数据分析hr面](https://www.nowcoder.com/discuss/39344)
 - [2018顺丰内推面经](http://www.voidcn.com/article/p-zaxhulyj-bod.html)
+- [顺丰科技 大数据挖掘与分析一面](https://www.nowcoder.com/discuss/213207)
 
 ### YY
 
@@ -299,17 +308,23 @@
 - 
 
 ### GrowingIO
+
 - [GrowingIO Scala研发面试及对测试开发个人看法](https://www.nowcoder.com/discuss/164080)
 
 ### 多易网络
+
+- [多益网络-人工智能与大数据-笔试](https://www.nowcoder.com/discuss/201865)
 - [多益网络-人工智能与大数据-笔试](https://www.nowcoder.com/discuss/201865)
 
 ### 微播易
 
 - [大数据开发实习面经](https://www.nowcoder.com/discuss/146733)
 
-### 个人面多公司
+### 祖龙娱乐
 
+- [祖龙娱乐 sp一面 时长 73分钟 (包括答案）](https://www.nowcoder.com/discuss/211468)
+
+### 个人面多公司
 
 - [阿里、网易、美团、商汤科技大数据研发面经](https://www.nowcoder.com/discuss/48021)
 - [阿里+腾讯+网易+蘑菇街](https://www.nowcoder.com/discuss/8328)
@@ -322,9 +337,7 @@
 - [腾讯+网易考拉+美团新到店+小米+贝壳+华为+快手+阿里菜鸟](https://www.nowcoder.com/discuss/109518)
 - [阿里+网易+海康威视](https://www.nowcoder.com/discuss/119208)
 
-
 - [大数据开发（研发）面经](https://www.nowcoder.com/discuss/120918)
-
 
 - [快手+美团+头条+京东+网易](https://www.nowcoder.com/discuss/127104)
 
@@ -344,7 +357,7 @@
 
 - [超级渣硕的数据分析春招历程（附面经） ](https://www.nowcoder.com/discuss/184912)
 
-  >  Bigo（数据分析实习生）、京东（数据分析工程师）、欢聚时代（数据分析实习生，日常实习非暑期）
+  > Bigo（数据分析实习生）、京东（数据分析工程师）、欢聚时代（数据分析实习生，日常实习非暑期）
 
 - [网易+京东](https://www.nowcoder.com/discuss/40007)
 
