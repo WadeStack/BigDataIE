@@ -42,6 +42,8 @@
   - [多易网络](#多易网络)
   - [微播易](#微播易)
   - [祖龙娱乐](#祖龙娱乐)
+  - [趋势科技](#趋势科技)
+  - [酷家乐](#酷家乐)
   - [个人面多公司](#个人面多公司)
 
 
@@ -74,7 +76,6 @@
 - [腾讯春招 数据分析 一面分享](https://www.nowcoder.com/discuss/160306)
 - [腾讯 数据分析补招 一面](https://www.nowcoder.com/discuss/163237)
 - [腾讯数据分析实习生一面](https://www.nowcoder.com/discuss/163386)
-- [阿里暑期实习数据分析师一面二面面经](https://www.nowcoder.com/discuss/174203)
 - [腾讯 数据分析 面经](https://www.nowcoder.com/discuss/181943)
 - [腾讯数据分析一面面经](https://www.nowcoder.com/discuss/182214)
 
@@ -83,14 +84,14 @@
 - [美团机器学习/数据挖掘电面一面面经](https://www.nowcoder.com/discuss/188218)
 - [美团二面已跪但是我不服](https://www.nowcoder.com/discuss/36835)
 - [美团机器学习/数据挖掘视频面三面面经](https://www.nowcoder.com/discuss/193278)
-
+- [美团点评 数据开发工程师 一面](https://www.nowcoder.com/discuss/228763)
 
 
 ### 神策数据
 
 - [19春招神策数据-数据分析师一面](<https://www.nowcoder.com/discuss/175471>)
 
-  
+
 
 ### 蘑菇街
 
@@ -151,6 +152,9 @@
 ### 快手
 
 - [快手数据分析-2018届春招校招](https://www.nowcoder.com/discuss/80464)
+- [北京 快手 大数据研发技术面经](https://www.nowcoder.com/discuss/148752)
+
+
 
 ### 度小满
 
@@ -182,6 +186,12 @@
 - [字节跳动（提前批）二面](https://www.nowcoder.com/discuss/210332)
 - [字节跳动大数据开发](https://www.nowcoder.com/discuss/207114)
 - [字节跳动提前批 大数据面经 = =](https://www.nowcoder.com/discuss/204677)
+- [字节跳动大数据开发(实习)三面凉经](https://www.nowcoder.com/discuss/170799)
+- [字节跳动 大数据开发实习 三面](https://www.nowcoder.com/discuss/181363)
+- [3.23 宇宙条大数据一二三面](https://www.nowcoder.com/discuss/167491)
+- [字节跳动大数据研发岗位实习生](https://www.nowcoder.com/discuss/201086)
+- [字节跳动大数据岗](http://nowcoder.com/discuss/204836)
+- [字节跳动 大数据工程师实习一面](https://www.nowcoder.com/discuss/213064)
 
 ### 华为
 
@@ -211,6 +221,10 @@
 
 - [拼多多数据分析二面面经](https://www.nowcoder.com/discuss/34318)
 - [拼多多数据分析一面](https://www.nowcoder.com/discuss/121743)
+- [拼多多学霸批大数据开发二面](https://www.nowcoder.com/discuss/227412)
+- [8.11拼多多数据分析现场面](https://www.nowcoder.com/discuss/221285)
+
+
 
 ### 阿里巴巴
 
@@ -218,6 +232,10 @@
 - [阿里数据分析暑期实习面](https://www.nowcoder.com/discuss/179290)
 - [阿里巴巴数据研发电话一面](https://www.nowcoder.com/discuss/187659)
 - [阿里大数据平台一面面经](https://www.nowcoder.com/discuss/210776)
+- [阿里暑期实习数据分析师一面二面面经](https://www.nowcoder.com/discuss/174203)
+- [阿里云数据团队 二面](https://www.nowcoder.com/discuss/211967)
+- 
+
 
 ### 51信用卡
 
@@ -247,6 +265,14 @@
 - [顺丰科技数据分析hr面](https://www.nowcoder.com/discuss/39344)
 - [2018顺丰内推面经](http://www.voidcn.com/article/p-zaxhulyj-bod.html)
 - [顺丰科技 大数据挖掘与分析一面](https://www.nowcoder.com/discuss/213207)
+- [顺丰科技大数据挖掘与分析一面](https://www.nowcoder.com/discuss/217884)
+-  [顺丰大数据分析与挖掘SP场-面经](https://www.nowcoder.com/discuss/217932)
+- [顺丰科技 大数据挖掘与分析工程师 一面面经](https://www.nowcoder.com/discuss/217930)
+- [顺丰提前批 大数据挖掘与分析 一面 ](https://www.nowcoder.com/discuss/223163)
+- [顺丰大数开一面](https://www.nowcoder.com/discuss/225288)
+- [顺丰大数据平台开发二面凉经](https://www.nowcoder.com/discuss/225326)
+- [顺丰sp专场大数据挖掘与分析一面面经](https://www.nowcoder.com/discuss/217376)
+
 
 ### YY
 
@@ -302,10 +328,16 @@
 
 - [360游戏数据分析岗位面经](https://www.nowcoder.com/discuss/103176)
 
+- [2019秋招360大数据工程师笔试题回馈牛友~](https://www.nowcoder.com/discuss/152767)
+  
+- [360大数据开发二面](https://www.nowcoder.com/discuss/180863)
+
+
 ### 滴滴
 
 - [刚出炉的滴滴电话面试题](https://www.nowcoder.com/discuss/121492)
-- 
+
+- [4.29，滴滴一面，大数据开发实习生（27分钟）](https://www.nowcoder.com/discuss/186176)
 
 ### GrowingIO
 
@@ -314,7 +346,7 @@
 ### 多易网络
 
 - [多益网络-人工智能与大数据-笔试](https://www.nowcoder.com/discuss/201865)
-- [多益网络-人工智能与大数据-笔试](https://www.nowcoder.com/discuss/201865)
+
 
 ### 微播易
 
@@ -323,6 +355,15 @@
 ### 祖龙娱乐
 
 - [祖龙娱乐 sp一面 时长 73分钟 (包括答案）](https://www.nowcoder.com/discuss/211468)
+
+### 趋势科技
+
+- [趋势科技西安大唐西市酒店一二面](https://www.nowcoder.com/discuss/222664)
+
+### 酷家乐
+- [酷家乐大数据研发面试](nowcoder.com/discuss/179304)
+
+
 
 ### 个人面多公司
 
@@ -376,3 +417,9 @@
 - [数据分析面经(头条/拼多多/携程/网易/银联/招行卡)](https://www.nowcoder.com/discuss/89156)
 
 - [2019数据分析求职经验贴](https://www.nowcoder.com/discuss/123711)
+- [jd数分提前批+顺丰数分sp+阿里数据研发](https://www.nowcoder.com/discuss/222592)
+-  [顺丰滴滴数据分析面经](https://www.nowcoder.com/discuss/225140)
+- [秋招总结分享，数据研发方向，阿里，网易，华为等](https://www.nowcoder.com/discuss/144976)
+-  [携程+美的+阿里+依图+腾讯+公安三所+上交所+上海银行+中金所+黄金交易所+中国人寿+招商银行+中国银联](https://www.nowcoder.com/discuss/143377)
+-  [铁牌退役ACM选手的春招+秋招日记(大数据方向）](https://www.nowcoder.com/discuss/154263)
+-  [阿里腾讯头条面经](https://www.nowcoder.com/discuss/163053)
