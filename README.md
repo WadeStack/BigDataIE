@@ -44,6 +44,7 @@
   - [祖龙娱乐](#祖龙娱乐)
   - [趋势科技](#趋势科技)
   - [酷家乐](#酷家乐)
+  - [有赞](有赞)
   - [个人面多公司](#个人面多公司)
 
 
@@ -223,6 +224,7 @@
 - [拼多多数据分析一面](https://www.nowcoder.com/discuss/121743)
 - [拼多多学霸批大数据开发二面](https://www.nowcoder.com/discuss/227412)
 - [8.11拼多多数据分析现场面](https://www.nowcoder.com/discuss/221285)
+- [拼多多学霸批 大数据岗位面经 8.22](https://www.nowcoder.com/discuss/230498)
 
 
 
@@ -363,7 +365,9 @@
 ### 酷家乐
 - [酷家乐大数据研发面试](nowcoder.com/discuss/179304)
 
+### 有赞
 
+- [有赞一面](https://www.nowcoder.com/discuss/232245)
 
 ### 个人面多公司
 
