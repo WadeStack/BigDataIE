@@ -44,7 +44,8 @@
   - [祖龙娱乐](#祖龙娱乐)
   - [趋势科技](#趋势科技)
   - [酷家乐](#酷家乐)
-  - [有赞](有赞)
+  - [有赞](#有赞)
+  - [流利说](#流利说)
   - [个人面多公司](#个人面多公司)
 
 
@@ -101,6 +102,7 @@
 - [蘑菇街渣渣一面](https://www.nowcoder.com/discuss/183354)
 - [蘑菇街面经：数据分析岗，已经拿到offer了](https://www.nowcoder.com/discuss/65535)
 - [热乎乎的蘑菇街数据分析二面](https://www.nowcoder.com/discuss/179597)
+- [蘑菇街现场面 大数据开发 共三面](https://www.nowcoder.com/discuss/234155)
 
 ### 微众
 
@@ -139,6 +141,7 @@
 - [2019年2月杭州网易游戏数据分析实习面经](https://www.nowcoder.com/discuss/156346)
 - [网易暑期实习数据分析岗位笔试&一面](https://www.nowcoder.com/discuss/179362)
 - [网易杭州－数据分析师面试（杭研）](https://www.nowcoder.com/discuss/35548)
+- [网易大数据开发二面](https://www.nowcoder.com/discuss/229184)
 
 ### 58
 
@@ -329,10 +332,9 @@
 ### 360
 
 - [360游戏数据分析岗位面经](https://www.nowcoder.com/discuss/103176)
-
 - [2019秋招360大数据工程师笔试题回馈牛友~](https://www.nowcoder.com/discuss/152767)
-  
 - [360大数据开发二面](https://www.nowcoder.com/discuss/180863)
+- [大疆测试，360数分面经](https://www.nowcoder.com/discuss/234672)
 
 
 ### 滴滴
@@ -368,6 +370,10 @@
 ### 有赞
 
 - [有赞一面](https://www.nowcoder.com/discuss/232245)
+
+### 流利说
+
+- [流利说大数据一面凉经](https://www.nowcoder.com/discuss/225837)
 
 ### 个人面多公司
 
