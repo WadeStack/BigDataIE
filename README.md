@@ -46,6 +46,9 @@
   - [酷家乐](#酷家乐)
   - [有赞](#有赞)
   - [流利说](#流利说)
+  - [柠檬微趣](#柠檬微趣)
+  - [浦发银行](#浦发银行)
+  - [大华](#大华)
   - [个人面多公司](#个人面多公司)
 
 
@@ -295,6 +298,7 @@
 
 - [海康威视 大数据开发 面经](https://www.nowcoder.com/discuss/188324)
 - [海康威视数据分析工程师面经](https://www.nowcoder.com/discuss/112369)
+- [海康威视 研究院 大数据开发 面经 共三面](https://www.nowcoder.com/discuss/235928)
 
 ### 好未来
 
@@ -375,17 +379,38 @@
 
 - [流利说大数据一面凉经](https://www.nowcoder.com/discuss/225837)
 
+### 浦发银行
+
+- [浦发银行北京8.28大数据岗面经](https://www.nowcoder.com/discuss/236535)
+
+### 大华
+
+- [2020秋招面经大汇总（浙江大华）](https://www.nowcoder.com/discuss/240423)
+
+### 柠檬微趣
+
+- [柠檬微趣 一面凉经 岗位大数据开发工程师](https://www.nowcoder.com/discuss/226875)
+
 ### 个人面多公司
 
 - [阿里、网易、美团、商汤科技大数据研发面经](https://www.nowcoder.com/discuss/48021)
+
 - [阿里+腾讯+网易+蘑菇街](https://www.nowcoder.com/discuss/8328)
+
 - [携程+拼多多+头条+小红书+网易](https://www.nowcoder.com/discuss/122992)
+
 - [2016秋招网易、百度、腾讯面经](https://www.nowcoder.com/discuss/11485) 
+
 - [2018年腾讯一面+阿里一面+一点一面+宜信+360+华为+头条+去哪儿](https://www.nowcoder.com/discuss/80045)
+
 - [华为+链家+快手+平安科技+招银网络+第四范式](https://www.nowcoder.com/discuss/81814)
+
 - [阿里+腾讯+去哪儿](https://www.nowcoder.com/discuss/26113)
+
 - [阿里、腾讯、百度、网易考拉、网易游戏、头条、京东、微软、paypal、akuna、拼多多、携程、爱奇艺、招行信用卡](https://www.nowcoder.com/discuss/79729)
+
 - [腾讯+网易考拉+美团新到店+小米+贝壳+华为+快手+阿里菜鸟](https://www.nowcoder.com/discuss/109518)
+
 - [阿里+网易+海康威视](https://www.nowcoder.com/discuss/119208)
 
 - [大数据开发（研发）面经](https://www.nowcoder.com/discuss/120918)
@@ -427,9 +452,22 @@
 - [数据分析面经(头条/拼多多/携程/网易/银联/招行卡)](https://www.nowcoder.com/discuss/89156)
 
 - [2019数据分析求职经验贴](https://www.nowcoder.com/discuss/123711)
+
 - [jd数分提前批+顺丰数分sp+阿里数据研发](https://www.nowcoder.com/discuss/222592)
--  [顺丰滴滴数据分析面经](https://www.nowcoder.com/discuss/225140)
+
+- [顺丰滴滴数据分析面经](https://www.nowcoder.com/discuss/225140)
+
 - [秋招总结分享，数据研发方向，阿里，网易，华为等](https://www.nowcoder.com/discuss/144976)
--  [携程+美的+阿里+依图+腾讯+公安三所+上交所+上海银行+中金所+黄金交易所+中国人寿+招商银行+中国银联](https://www.nowcoder.com/discuss/143377)
--  [铁牌退役ACM选手的春招+秋招日记(大数据方向）](https://www.nowcoder.com/discuss/154263)
--  [阿里腾讯头条面经](https://www.nowcoder.com/discuss/163053)
+
+- [携程+美的+阿里+依图+腾讯+公安三所+上交所+上海银行+中金所+黄金交易所+中国人寿+招商银行+中国银联](https://www.nowcoder.com/discuss/143377)
+
+- [铁牌退役ACM选手的春招+秋招日记(大数据方向）](https://www.nowcoder.com/discuss/154263)
+
+- [阿里腾讯头条面经](https://www.nowcoder.com/discuss/163053)
+
+- [大数据开发：春招获蚂蚁、拼多多、华为、远景、华泰等offer](https://www.nowcoder.com/discuss/240064)
+
+-  [阿里云+菜鸟+腾讯+百度+字节跳动+美团+滴滴+小米+爱奇艺+同程艺龙](https://www.nowcoder.com/discuss/238533)
+
+
+
