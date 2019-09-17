@@ -29,6 +29,8 @@
 
   F
 
+  - [freewheel](#freewheel)
+
   G
 
   - [GrowingIO](#growingio)
@@ -46,13 +48,13 @@
   I
 
   J
-
-  - [京东](#京东)
+  
+- [京东](#京东)
   - [吉比特](#吉比特)
 
   K
-
-  - [快手](#快手)
+  
+- [快手](#快手)
   - [酷家乐](#酷家乐)
 
   L
@@ -64,9 +66,9 @@
   M
 
   - [美团](#美团)
-
+  
   - [蘑菇街](#蘑菇街)
-  - [陌陌](#陌陌)
+- [陌陌](#陌陌)
   - [蚂蚁金服](#蚂蚁金服)
 
   N
@@ -78,14 +80,14 @@
   - [OPPO](#oppo)
 
   P
-
+  
   - [Paypal](#paypal)
-  - [拼多多](#拼多多)
+- [拼多多](#拼多多)
   - [浦发银行](#浦发银行)
 
   Q
-
-  - [趣店](#趣店)
+  
+- [趣店](#趣店)
   - [趋势科技](#趋势科技)
 
   R
@@ -93,8 +95,8 @@
   S
 
   - [搜狐](#搜狐)
-
-  - [神策数据](#神策数据)
+  
+- [神策数据](#神策数据)
   - [顺丰](#顺丰)
 
   T
@@ -108,40 +110,41 @@
   - [VIVO](#vivo)
 
   W
-
+  
   - [网易](#网易)
   - [微众](#微众)
-  - [唯品会](#唯品会)
+- [唯品会](#唯品会)
   - [微播易](#微播易)
 
   X
 
   - [携程](#携程)
-
+- [小米](#小米)
+  
   Y
-
-  - [猿辅导](#猿辅导)
+  
+- [猿辅导](#猿辅导)
   - [YY](#yy)
-  - [有赞](#有赞)
-
-  Z
-
-  - [珍珠网](#珍珠网)
-
-  - [招商银行](#招商银行)
-
-  - [祖龙娱乐](#祖龙娱乐)
-
-    
-
-  其他
-
-  - [58](#58)
-
-  - [51信用卡](#51信用卡)
-
+- [有赞](#有赞)
+  
+Z
+  
+- [珍珠网](#珍珠网)
+  
+- [招商银行](#招商银行)
+  
+- [祖龙娱乐](#祖龙娱乐)
+  
+  
+  
+其他
+  
+- [58](#58)
+  
+- [51信用卡](#51信用卡)
+  
   - [360](#360)
-
+  
   [个人面多公司](#个人面多公司)
 
 
@@ -249,6 +252,10 @@
 
 ## F
 
+### freewheel
+
+- [freewheel大数据面试](https://www.nowcoder.com/discuss/252896)
+
 ## G
 
 ### GrowingIO
@@ -287,6 +294,7 @@
 - [京东数据分析二面](https://www.nowcoder.com/discuss/120618)
 - [京东数据分析实习二面凉经](https://www.nowcoder.com/discuss/183356)
 - [京东数据分析工程师暑假实习一面](https://www.nowcoder.com/discuss/184285)
+- [京东数据分析工程师一面](https://www.nowcoder.com/discuss/243115)
 
 ### 吉比特
 
@@ -298,6 +306,7 @@
 
 - [快手数据分析-2018届春招校招](https://www.nowcoder.com/discuss/80464)
 - [北京 快手 大数据研发技术面经](https://www.nowcoder.com/discuss/148752)
+- [快手 大数据开发 一二面视频面](https://www.nowcoder.com/discuss/254667)
 
 ### 酷家乐
 
@@ -357,6 +366,7 @@
 - [拼多多学霸批大数据开发二面](https://www.nowcoder.com/discuss/227412)
 - [8.11拼多多数据分析现场面](https://www.nowcoder.com/discuss/221285)
 - [拼多多学霸批 大数据岗位面经 8.22](https://www.nowcoder.com/discuss/230498)
+- [拼多多数据分析面经（学霸批）](https://www.nowcoder.com/discuss/245997)
 
 ### Paypal
 
@@ -452,6 +462,7 @@
 ### 微播易
 
 - [大数据开发实习面经](https://www.nowcoder.com/discuss/146733)
+- [大数据开发实习面经](https://www.nowcoder.com/discuss/146733)
 
 ## X
 
@@ -461,6 +472,12 @@
 - [携程大数据分析二面](https://www.nowcoder.com/discuss/98171)
 - [8.28携程大数据分析面经（已收到offer）](https://www.nowcoder.com/discuss/35813)
 - [携程大数据分析，首面面经攒人品](https://www.nowcoder.com/discuss/41529)
+
+### 小米
+
+- [小米大数据开发一面](https://www.nowcoder.com/discuss/251696)
+- [小米 大数据开发 一面视频面](https://www.nowcoder.com/discuss/251769)
+- [小米大数据开发二面面经](https://www.nowcoder.com/discuss/255702)
 
 ## Y
 
