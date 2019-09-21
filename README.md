@@ -272,6 +272,7 @@
 ### 大华
 
 - [2020秋招面经大汇总（浙江大华）](https://www.nowcoder.com/discuss/240423)
+- [浙江大华提前批大数据研发3面面经](https://www.nowcoder.com/discuss/232010)
 
 ## E
 ### 饿了么
@@ -452,6 +453,8 @@
 - [顺丰科技大数据开发凉经](https://www.nowcoder.com/discuss/265047)
 - [顺丰大数据一面凉经](https://www.nowcoder.com/discuss/265416)
 - [顺丰科技-大数据开发-二面面经](https://www.nowcoder.com/discuss/268826)
+- [顺丰科技 大数据挖掘与分析 已发录用意向书](https://www.nowcoder.com/discuss/272670)
+- [顺丰科技大数据开发凉经](https://www.nowcoder.com/discuss/265047)
 
 ## T
 
@@ -529,6 +532,7 @@
 ### 有赞
 
 - [有赞一面](https://www.nowcoder.com/discuss/232245)
+- [有赞大数据现场面面经](https://www.nowcoder.com/discuss/272240)
 
 ### YY
 
@@ -649,5 +653,5 @@
 
 -  [阿里云+菜鸟+腾讯+百度+字节跳动+美团+滴滴+小米+爱奇艺+同程艺龙](https://www.nowcoder.com/discuss/238533)
 
-
+- [2019秋招数据挖掘数据分析面试经历](https://www.nowcoder.com/discuss/272392)
 
