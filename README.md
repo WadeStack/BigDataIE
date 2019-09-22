@@ -141,8 +141,8 @@
   X
 
   - [携程](#携程)
-
   - [小米](#小米)
+  - [新网银行](#新网银行)
 
   Y
 
@@ -302,6 +302,7 @@
 - [华为814留学生专场，研发类（大数据，技术研究）](https://www.nowcoder.com/discuss/32440)
 - [华为大数据面经](https://www.nowcoder.com/discuss/120732)
 - [华为产品数据工程师暑期实习一面](https://www.nowcoder.com/discuss/179775)
+- [华为大数据面经](https://www.nowcoder.com/discuss/120732)
 
 ### 海康威视
 
@@ -414,6 +415,10 @@
 ### 浦发银行
 
 - [浦发银行北京8.28大数据岗面经](https://www.nowcoder.com/discuss/236535)
+- [上海浦发面经(秋招面经持续更新，攒人品)](https://www.nowcoder.com/discuss/90871) 
+- [浦发银行大数据创新岗上海打卡](https://www.nowcoder.com/discuss/91675) 
+- [浦发银行总行（上海）大数据岗8月6号面经](https://www.nowcoder.com/discuss/91911) 
+- [深信服提前批面经（大数据平台研发岗）](https://www.nowcoder.com/discuss/86060)
 
 ## Q
 
@@ -440,23 +445,42 @@
 ### 顺丰
 
 - [顺丰科技一面面经（内推--大数据挖掘与分析岗）](https://www.nowcoder.com/discuss/88818)
+
 - [顺丰科技数据分析hr面](https://www.nowcoder.com/discuss/39344)
+
 - [2018顺丰内推面经](http://www.voidcn.com/article/p-zaxhulyj-bod.html)
+
 - [顺丰科技 大数据挖掘与分析一面](https://www.nowcoder.com/discuss/213207)
+
 - [顺丰科技大数据挖掘与分析一面](https://www.nowcoder.com/discuss/217884)
+
 - [顺丰大数据分析与挖掘SP场-面经](https://www.nowcoder.com/discuss/217932)
+
 - [顺丰科技 大数据挖掘与分析工程师 一面面经](https://www.nowcoder.com/discuss/217930)
+
 - [顺丰提前批 大数据挖掘与分析 一面 ](https://www.nowcoder.com/discuss/223163)
+
 - [顺丰大数开一面](https://www.nowcoder.com/discuss/225288)
+
 - [顺丰大数据平台开发二面凉经](https://www.nowcoder.com/discuss/225326)
+
 - [顺丰sp专场大数据挖掘与分析一面面经](https://www.nowcoder.com/discuss/217376)
-- [顺丰科技大数据开发凉经](https://www.nowcoder.com/discuss/265047)
-- [顺丰大数据一面凉经](https://www.nowcoder.com/discuss/265416)
-- [顺丰科技-大数据开发-二面面经](https://www.nowcoder.com/discuss/268826)
-- [顺丰科技 大数据挖掘与分析 已发录用意向书](https://www.nowcoder.com/discuss/272670)
+
 - [顺丰科技大数据开发凉经](https://www.nowcoder.com/discuss/265047)
 
-## T
+- [顺丰大数据一面凉经](https://www.nowcoder.com/discuss/265416)
+
+- [顺丰科技-大数据开发-二面面经](https://www.nowcoder.com/discuss/268826)
+
+- [顺丰科技 大数据挖掘与分析 已发录用意向书](https://www.nowcoder.com/discuss/272670)
+
+- [顺丰科技大数据开发凉经](https://www.nowcoder.com/discuss/265047)
+
+- [顺丰科技 大数据挖掘与分析 已发录用说明会邀请](https://www.nowcoder.com/discuss/272670)
+
+- [顺丰科技面经-大数据研发](https://www.nowcoder.com/discuss/120499)
+
+  
 
 ### 腾讯
 
@@ -522,6 +546,10 @@
 - [小米大数据开发一面](https://www.nowcoder.com/discuss/251696)
 - [小米 大数据开发 一面视频面](https://www.nowcoder.com/discuss/251769)
 - [小米大数据开发二面面经](https://www.nowcoder.com/discuss/255702)
+
+### 新网银行
+
+- [新网银行面经(大数据与算法)](https://www.nowcoder.com/discuss/273151)
 
 ## Y
 
@@ -654,4 +682,6 @@
 -  [阿里云+菜鸟+腾讯+百度+字节跳动+美团+滴滴+小米+爱奇艺+同程艺龙](https://www.nowcoder.com/discuss/238533)
 
 - [2019秋招数据挖掘数据分析面试经历](https://www.nowcoder.com/discuss/272392)
+
+- [感谢牛客网！发一波面经！阿里、网易游戏、京东等offer](https://www.nowcoder.com/discuss/101712)
 
