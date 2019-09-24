@@ -79,12 +79,10 @@
   M
 
   - [美团](#美团)
-
   - [蘑菇街](#蘑菇街)
-
   - [陌陌](#陌陌)
-
   - [蚂蚁金服](#蚂蚁金服)
+  - [明略科技](#明略科技)
 
   N
 
@@ -384,6 +382,12 @@
 
 - [【蚂蚁金服】一面挂经，大数据开发java岗](https://www.nowcoder.com/discuss/94574)
 
+### 明略科技
+
+- [明略科技大数据开发一、二面经及吐槽](https://www.nowcoder.com/discuss/280249)
+
+
+
 ## N
 
 ### 柠檬微趣
@@ -480,6 +484,8 @@
 
 - [顺丰科技面经-大数据研发](https://www.nowcoder.com/discuss/120499)
 
+- [顺丰科技大数据挖掘分析面经，攒人品求offer！](https://www.nowcoder.com/discuss/279564)
+
   
 
 ### 腾讯
@@ -497,6 +503,10 @@
 ## U
 
 ## V
+
+### vivo
+
+- [vivo大数据技术一面+HR面面经（已拿offer）](https://www.nowcoder.com/discuss/278545)
 
 ## W
 
