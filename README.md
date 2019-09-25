@@ -364,6 +364,7 @@
 - [美团二面已跪但是我不服](https://www.nowcoder.com/discuss/36835)
 - [美团机器学习/数据挖掘视频面三面面经](https://www.nowcoder.com/discuss/193278)
 - [美团点评 数据开发工程师 一面](https://www.nowcoder.com/discuss/228763)
+- [数据开发一面](https://www.nowcoder.com/discuss/247998)
 
 ### 蘑菇街
 
@@ -499,6 +500,8 @@
 - [腾讯数据分析实习生一面](https://www.nowcoder.com/discuss/163386)
 - [腾讯 数据分析 面经](https://www.nowcoder.com/discuss/181943)
 - [腾讯数据分析一面面经](https://www.nowcoder.com/discuss/182214)
+- [腾讯一二面 大数据开发](https://www.nowcoder.com/discuss/246194)
+- [腾讯大数据 三面面经](https://www.nowcoder.com/discuss/254662)
 
 ## U
 
@@ -583,6 +586,7 @@
 - [招银电面](https://www.nowcoder.com/discuss/11148)
 - [招行信用卡视频面试（大数据](https://www.nowcoder.com/discuss/177281)
 - [招银科技电话一面面经](https://www.nowcoder.com/discuss/10425)
+- [热乎乎的招银网络现场面试](https://www.nowcoder.com/discuss/261264)
 
 ### 祖龙娱乐
 
@@ -694,4 +698,6 @@
 - [2019秋招数据挖掘数据分析面试经历](https://www.nowcoder.com/discuss/272392)
 
 - [感谢牛客网！发一波面经！阿里、网易游戏、京东等offer](https://www.nowcoder.com/discuss/101712)
+
+- [秋招面经总结（数据研发/Java研发）](https://www.nowcoder.com/discuss/272576)
 
