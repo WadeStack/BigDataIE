@@ -159,6 +159,8 @@
   
 - [祖龙娱乐](#祖龙娱乐)
   
+- [中兴](#中兴)
+  
   
   
 
@@ -301,6 +303,7 @@
 - [华为大数据面经](https://www.nowcoder.com/discuss/120732)
 - [华为产品数据工程师暑期实习一面](https://www.nowcoder.com/discuss/179775)
 - [华为大数据面经](https://www.nowcoder.com/discuss/120732)
+- [华为面经产品数字化、产品数据开发工程师](https://www.nowcoder.com/discuss/265646)
 
 ### 海康威视
 
@@ -365,6 +368,7 @@
 - [美团机器学习/数据挖掘视频面三面面经](https://www.nowcoder.com/discuss/193278)
 - [美团点评 数据开发工程师 一面](https://www.nowcoder.com/discuss/228763)
 - [数据开发一面](https://www.nowcoder.com/discuss/247998)
+- [快手大数据开发一、二面凉经](https://www.nowcoder.com/discuss/285280)
 
 ### 蘑菇街
 
@@ -487,6 +491,8 @@
 
 - [顺丰科技大数据挖掘分析面经，攒人品求offer！](https://www.nowcoder.com/discuss/279564)
 
+- [顺丰科技大数据挖掘与分析二面凉经](https://www.nowcoder.com/discuss/282109)
+
   
 
 ### 腾讯
@@ -559,6 +565,7 @@
 - [小米大数据开发一面](https://www.nowcoder.com/discuss/251696)
 - [小米 大数据开发 一面视频面](https://www.nowcoder.com/discuss/251769)
 - [小米大数据开发二面面经](https://www.nowcoder.com/discuss/255702)
+- [小米大数据一二面面经](https://www.nowcoder.com/discuss/246157)
 
 ### 新网银行
 
@@ -574,6 +581,7 @@
 
 - [有赞一面](https://www.nowcoder.com/discuss/232245)
 - [有赞大数据现场面面经](https://www.nowcoder.com/discuss/272240)
+- [有赞一、二面凉经（大数据开发工程师）](https://www.nowcoder.com/discuss/248821)
 
 ### YY
 
@@ -595,6 +603,10 @@
 ### 珍珠网
 
 - [珍爱网数据分析一面面经](https://www.nowcoder.com/discuss/99606)
+
+### 中兴
+
+- [中兴一面面经](https://www.nowcoder.com/discuss/279807)
 
 ## 其他
 
@@ -700,4 +712,6 @@
 - [感谢牛客网！发一波面经！阿里、网易游戏、京东等offer](https://www.nowcoder.com/discuss/101712)
 
 - [秋招面经总结（数据研发/Java研发）](https://www.nowcoder.com/discuss/272576)
+
+- [携程、顺丰 大数据挖掘与分析面经](https://www.nowcoder.com/discuss/284974)
 
