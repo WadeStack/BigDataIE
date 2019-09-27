@@ -273,6 +273,7 @@
 
 - [2020秋招面经大汇总（浙江大华）](https://www.nowcoder.com/discuss/240423)
 - [浙江大华提前批大数据研发3面面经](https://www.nowcoder.com/discuss/232010)
+- [大华-大数据工程师（数据挖掘方向）-一面面经](https://www.nowcoder.com/discuss/286568)
 
 ## E
 ### 饿了么
@@ -714,4 +715,6 @@
 - [秋招面经总结（数据研发/Java研发）](https://www.nowcoder.com/discuss/272576)
 
 - [携程、顺丰 大数据挖掘与分析面经](https://www.nowcoder.com/discuss/284974)
+
+- [已上岸还愿牛客,双非渣硕的大数据开发岗秋招面经](https://www.nowcoder.com/discuss/287056)
 
