@@ -240,6 +240,7 @@
 - [oppo数分实习一面面经](https://www.nowcoder.com/discuss/182366)
 - [oppo数分二面面经](https://www.nowcoder.com/discuss/189530)
 - [oppo数分面经分享](https://www.nowcoder.com/discuss/313783)
+- 
 
 ## P
 
@@ -269,6 +270,7 @@
 ### 趣店
 
 - [趣店数据分析......](https://www.nowcoder.com/discuss/118652)
+-  [趣店数据分析完整面经，已收到offer!](https://www.nowcoder.com/discuss/308817) 
 
 ### 趋势科技
 
@@ -411,6 +413,10 @@
 ### 猿辅导
 
 - [新鲜的猿辅导数据分析一面](https://www.nowcoder.com/discuss/147630)
+
+### 远景智能
+
+-  [远景智能 数据研发一二面凉经](https://www.nowcoder.com/discuss/336328) 
 
 ### 有赞
 
@@ -560,4 +566,22 @@
 - [一次不成文的数据分析秋招经历](https://www.nowcoder.com/discuss/297599)
 
 - [数据分析面经分享（京东，美团，阿里，拼多多，vivo，滴滴）](https://www.nowcoder.com/discuss/294592)
+
+-  [Java/大数据开发面经：百度，美团，Shopee等](https://www.nowcoder.com/discuss/322364) 
+
+-  [数据分析秋招总结](https://www.nowcoder.com/discuss/328795) 
+
+-  [数据分析菜鸡的秋招终于上岸了](https://www.nowcoder.com/discuss/336061) 
+
+-  [双非渣硕的数据岗秋招上岸之路](https://www.nowcoder.com/discuss/337879) 
+
+-  [面经分享 数据开发/数据研发/数据分析](https://www.nowcoder.com/discuss/338699) 
+
+-  [2020秋招数据分析面经--阿里字节美团拼多多网易等](https://www.nowcoder.com/discuss/335280) 
+
+-  [大数据开发秋招面经总结](https://www.nowcoder.com/discuss/328069) 
+
+-  [秋招数据开发上岸，前来还愿](https://www.nowcoder.com/discuss/327786) 
+
+- 
 
