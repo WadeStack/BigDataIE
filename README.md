@@ -68,6 +68,7 @@
 - [字节跳动大数据研发岗位实习生](https://www.nowcoder.com/discuss/201086)
 - [字节跳动大数据岗](http://nowcoder.com/discuss/204836)
 - [字节跳动 大数据工程师实习一面](https://www.nowcoder.com/discuss/213064)
+-  [头条大数据开发三面面经](https://www.nowcoder.com/discuss/341617) 
 
 ## C
 
@@ -233,6 +234,10 @@
 
 - [柠檬微趣 一面凉经 岗位大数据开发工程师](https://www.nowcoder.com/discuss/226875)
 
+### 南京银行
+
+-  [南京银行 数据开发 面经](https://www.nowcoder.com/discuss/340556) 
+
 ## O
 
 ### OPPO
@@ -330,7 +335,10 @@
 
 - [顺丰科技大数据挖掘与分析二面凉经](https://www.nowcoder.com/discuss/282109)
 
-  
+
+### 数字广东
+
+-  [数字广东三面面经](https://www.nowcoder.com/discuss/336431) 
 
 ### 腾讯
 
@@ -583,5 +591,9 @@
 
 -  [秋招数据开发上岸，前来还愿](https://www.nowcoder.com/discuss/327786) 
 
-- 
+-  [秋招的一些面经吧](https://www.nowcoder.com/discuss/342161) 
+
+-  [Java/大数据开发面经：百度，美团，Shopee等](https://www.nowcoder.com/discuss/322364) 
+
+-  [数据分析专业职业选择方向的一点点体会](https://www.nowcoder.com/discuss/343461) 
 
