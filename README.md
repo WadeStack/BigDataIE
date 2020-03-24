@@ -1,6 +1,6 @@
 [TOC]
 
-
+> UpdateTime: 2020-03-23
 
 # 参考博客
 
@@ -23,7 +23,7 @@
 
 
 
-## **A**
+## A
 
 ### 阿里巴巴
 
@@ -33,6 +33,11 @@
 - [阿里大数据平台一面面经](https://www.nowcoder.com/discuss/210776)
 - [阿里暑期实习数据分析师一面二面面经](https://www.nowcoder.com/discuss/174203)
 - [阿里云数据团队 二面](https://www.nowcoder.com/discuss/211967)
+- [阿里云-城市大脑-数据研发-一面](https://www.nowcoder.com/discuss/377242)
+
+### 安恒信息
+
+- [安恒信息大数据岗面经](https://www.nowcoder.com/discuss/365351)
 
 ## B
 
@@ -68,7 +73,10 @@
 - [字节跳动大数据研发岗位实习生](https://www.nowcoder.com/discuss/201086)
 - [字节跳动大数据岗](http://nowcoder.com/discuss/204836)
 - [字节跳动 大数据工程师实习一面](https://www.nowcoder.com/discuss/213064)
--  [头条大数据开发三面面经](https://www.nowcoder.com/discuss/341617) 
+- [头条大数据开发三面面经](https://www.nowcoder.com/discuss/341617) 
+-  [字节跳动-大数据暑期实习一面面经](https://www.nowcoder.com/discuss/387210)
+-  [字节大数据一面](https://www.nowcoder.com/discuss/384453)
+-  [美团数据开发实习一面凉经](https://www.nowcoder.com/discuss/384335)
 
 ## C
 
@@ -142,10 +150,17 @@
 - [海康威视 大数据开发 面经](https://www.nowcoder.com/discuss/188324)
 - [海康威视数据分析工程师面经](https://www.nowcoder.com/discuss/112369)
 - [海康威视 研究院 大数据开发 面经 共三面](https://www.nowcoder.com/discuss/235928)
+- [海康威视（社招）数据开发岗一面](https://www.nowcoder.com/discuss/362562)
 
 ### 好未来
 
 - [好未来面经](https://www.nowcoder.com/discuss/110782)
+
+### 浩鲸科技
+
+- [浩鲸科技大数据开发笔面试全过程](https://www.nowcoder.com/discuss/384346)
+- [浩鲸云- 2020.3.9大数据开发笔试](https://www.nowcoder.com/discuss/379296)
+- [浩鲸云- 2020.3.9大数据开发笔试](https://www.nowcoder.com/discuss/377818)
 
 ## I
 
@@ -167,6 +182,10 @@
 ### 吉比特
 
 - [吉比特 数据分析 一面](https://www.nowcoder.com/discuss/105447)
+
+### 嘉云数据
+
+- [嘉云数据二面面经](https://www.nowcoder.com/discuss/362697)
 
 ## K
 
@@ -202,6 +221,10 @@
 - [美团点评 数据开发工程师 一面](https://www.nowcoder.com/discuss/228763)
 - [数据开发一面](https://www.nowcoder.com/discuss/247998)
 - [美团大数据三面面经](https://www.nowcoder.com/discuss/301436)
+- [美团 数据开发](https://www.nowcoder.com/discuss/387438)
+- [美团数据开发实习生一面凉经](https://www.nowcoder.com/discuss/387457)
+- [美团数据开发一面凉凉面经](https://www.nowcoder.com/discuss/385877)
+- [美团数据开发实习一面](https://www.nowcoder.com/discuss/384215)
 
 ### 蘑菇街
 
@@ -211,6 +234,8 @@
 - [蘑菇街面经：数据分析岗，已经拿到offer了](https://www.nowcoder.com/discuss/65535)
 - [热乎乎的蘑菇街数据分析二面](https://www.nowcoder.com/discuss/179597)
 - [蘑菇街现场面 大数据开发 共三面](https://www.nowcoder.com/discuss/234155)
+- [蘑菇街大数据一面凉经](https://www.nowcoder.com/discuss/380444)
+- [【蘑菇街】大数据开发实习生 二面凉经](https://www.nowcoder.com/discuss/378757)
 
 ### 陌陌
 
@@ -353,6 +378,7 @@
 - [腾讯数据分析一面面经](https://www.nowcoder.com/discuss/182214)
 - [腾讯一二面 大数据开发](https://www.nowcoder.com/discuss/246194)
 - [腾讯大数据 三面面经](https://www.nowcoder.com/discuss/254662)
+- [大数据岗-社招-一面-凉](https://www.nowcoder.com/discuss/377591)
 
 ## U
 
@@ -395,6 +421,10 @@
 
 - [大数据开发实习面经](https://www.nowcoder.com/discuss/146733)
 - [大数据开发实习面经](https://www.nowcoder.com/discuss/146733)
+
+### 微软
+
+- #### [苏州微软面经](https://www.nowcoder.com/discuss/389445)
 
 ## X
 
@@ -477,8 +507,7 @@
 - [2019秋招360大数据工程师笔试题回馈牛友~](https://www.nowcoder.com/discuss/152767)
 - [360大数据开发二面](https://www.nowcoder.com/discuss/180863)
 - [360数分面经](https://www.nowcoder.com/discuss/234672)
-
-  
+- [奇虎360社招面经：大数据计算存储高级开发](https://www.nowcoder.com/discuss/361497)
 
 
 ### 个人面多公司
@@ -595,5 +624,9 @@
 
 -  [Java/大数据开发面经：百度，美团，Shopee等](https://www.nowcoder.com/discuss/322364) 
 
--  [数据分析专业职业选择方向的一点点体会](https://www.nowcoder.com/discuss/343461) 
+- [数据分析专业职业选择方向的一点点体会](https://www.nowcoder.com/discuss/343461) 
+
+- [春招面经（Java，大数据开发岗位），持续更新](https://www.nowcoder.com/discuss/376702)
+
+-  [上海公司大数据面试题(面经)](https://www.nowcoder.com/discuss/362241)
 
