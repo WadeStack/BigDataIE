@@ -1,6 +1,6 @@
 [TOC]
 
-> UpdateTime: 2020-03-23
+> UpdateTime: 2020-04-24
 
 # 参考博客
 
@@ -34,10 +34,17 @@
 - [阿里暑期实习数据分析师一面二面面经](https://www.nowcoder.com/discuss/174203)
 - [阿里云数据团队 二面](https://www.nowcoder.com/discuss/211967)
 - [阿里云-城市大脑-数据研发-一面](https://www.nowcoder.com/discuss/377242)
+- [阿里巴巴数据研发二面凉经](https://www.nowcoder.com/discuss/401499?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [阿里新零售供应链平台一面面经--大数据开发实习岗](https://www.nowcoder.com/discuss/396193?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [阿里云-城市大脑-数据研发-一面](https://www.nowcoder.com/discuss/377242?type=post&order=create&pos=&page=1&channel=&subType=2)
 
 ### 安恒信息
 
 - [安恒信息大数据岗面经](https://www.nowcoder.com/discuss/365351)
+
+### 爱奇艺
+
+- [【爱奇艺】春招大数据开发工程师面经 ](https://www.nowcoder.com/discuss/391113?type=post&order=create&pos=&page=1&channel=&subType=2)
 
 ## B
 
@@ -76,7 +83,16 @@
 - [头条大数据开发三面面经](https://www.nowcoder.com/discuss/341617) 
 -  [字节跳动-大数据暑期实习一面面经](https://www.nowcoder.com/discuss/387210)
 -  [字节大数据一面](https://www.nowcoder.com/discuss/384453)
--  [美团数据开发实习一面凉经](https://www.nowcoder.com/discuss/384335)
+-  [字节大数据开发岗面经（已收到offer）](https://www.nowcoder.com/discuss/406936?type=post&order=create&pos=&page=1&channel=&subType=2)
+-  [字节跳动 大数据岗 一面凉经 求人品加成](https://www.nowcoder.com/discuss/398909?type=post&order=create&pos=&page=1&channel=&subType=2)
+-  [字节跳动-抖音/火山-大数据开发实习（一面面经-已凉）](https://www.nowcoder.com/discuss/398752?type=post&order=create&pos=&page=1&channel=&subType=2)
+-  [字节大数据一面面经](https://www.nowcoder.com/discuss/393677?type=post&order=create&pos=&page=0&channel=&subType=2)
+-  [字节跳动-大数据暑期实习一面面经](https://www.nowcoder.com/discuss/387210?type=post&order=create&pos=&page=1&channel=&subType=2)
+-  [字节大数据一面](https://www.nowcoder.com/discuss/384453?type=post&order=create&pos=&page=1&channel=&subType=2)
+
+### 百度
+
+- [百度大数据研发春招面经凉经](https://www.nowcoder.com/discuss/401691?type=post&order=create&pos=&page=1&channel=&subType=2)
 
 ## C
 
@@ -144,6 +160,9 @@
 - [华为产品数据工程师暑期实习一面](https://www.nowcoder.com/discuss/179775)
 - [华为大数据面经](https://www.nowcoder.com/discuss/120732)
 - [华为面经产品数字化、产品数据开发工程师](https://www.nowcoder.com/discuss/265646)
+- [华为实习一面（大数据开发工程师）](https://www.nowcoder.com/discuss/415033?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [华为春招粤港澳大数据开发一二三面经 ](https://www.nowcoder.com/discuss/399237?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [华为大数据开发面经](https://www.nowcoder.com/discuss/394314?type=post&order=create&pos=&page=1&channel=&subType=2)
 
 ### 海康威视
 
@@ -161,6 +180,9 @@
 - [浩鲸科技大数据开发笔面试全过程](https://www.nowcoder.com/discuss/384346)
 - [浩鲸云- 2020.3.9大数据开发笔试](https://www.nowcoder.com/discuss/379296)
 - [浩鲸云- 2020.3.9大数据开发笔试](https://www.nowcoder.com/discuss/377818)
+- [浩鲸科技大数据开发笔面试全过程](https://www.nowcoder.com/discuss/384346?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [浩鲸云- 2020.3.9大数据开发笔试](https://www.nowcoder.com/discuss/379296?type=post&order=create&pos=&page=0&channel=&subType=2)
+- [浩鲸云- 2020.3.9大数据开发笔试 ](https://www.nowcoder.com/discuss/377818?type=post&order=create&pos=&page=1&channel=&subType=2)
 
 ## I
 
@@ -199,6 +221,10 @@
 - [北京 快手 大数据研发技术面经](https://www.nowcoder.com/discuss/148752)
 - [快手 大数据开发 一二面视频面](https://www.nowcoder.com/discuss/254667)
 - [快手大数据开发一、二面凉经](https://www.nowcoder.com/discuss/285280)
+- [20200423 快手大数据平台研发实习生（数据中台）一面](https://www.nowcoder.com/discuss/415234?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [还愿！快手暑期实习（数据研发）](https://www.nowcoder.com/discuss/409546?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [【快手】快手大数据开发工程师面经](https://www.nowcoder.com/discuss/392528?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [快手数据科学面经（含准备建议）](https://www.nowcoder.com/discuss/387421?type=post&order=create&pos=&page=2&channel=&subType=2)
 
 ### 酷家乐
 
@@ -225,6 +251,16 @@
 - [美团数据开发实习生一面凉经](https://www.nowcoder.com/discuss/387457)
 - [美团数据开发一面凉凉面经](https://www.nowcoder.com/discuss/385877)
 - [美团数据开发实习一面](https://www.nowcoder.com/discuss/384215)
+- [4.22美团数开二面](https://www.nowcoder.com/discuss/414503?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [4.19美团数据开发一面面经](https://www.nowcoder.com/discuss/412550?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [美团数据开发实习一面凉经](https://www.nowcoder.com/discuss/384335)
+- [美团基础研发平台-数据研发offer 一二面 ](https://www.nowcoder.com/discuss/405924?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [美团暑期实习数据开发面经（已拿口头offer）](https://www.nowcoder.com/discuss/399898?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [许愿hr面 美团暑期实习数据开发面经 ](https://www.nowcoder.com/discuss/398035?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [美团实习一面（数据研发工程师，实习）](https://www.nowcoder.com/discuss/397444?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [美团数据研发（大概率一面凉经）](https://www.nowcoder.com/discuss/396064?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [【美团】数据开发实习三面面经（已offer）](https://www.nowcoder.com/discuss/393586?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [美团数据开发实习生一面凉经](https://www.nowcoder.com/discuss/387457?type=post&order=create&pos=&page=1&channel=&subType=2)
 
 ### 蘑菇街
 
@@ -236,10 +272,16 @@
 - [蘑菇街现场面 大数据开发 共三面](https://www.nowcoder.com/discuss/234155)
 - [蘑菇街大数据一面凉经](https://www.nowcoder.com/discuss/380444)
 - [【蘑菇街】大数据开发实习生 二面凉经](https://www.nowcoder.com/discuss/378757)
+- [蘑菇街 数据分析实习 一面二面 面经](https://www.nowcoder.com/discuss/407810?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [蘑菇街大数据开发实习三轮技术面+hr面面经(oc)](https://www.nowcoder.com/discuss/393323?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [蘑菇街三面面经---大数据开发岗(已收到offer) ](https://www.nowcoder.com/discuss/391757?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [蘑菇街大数据一面凉经](https://www.nowcoder.com/discuss/380444?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [【蘑菇街】大数据开发实习生 二面凉经 ](https://www.nowcoder.com/discuss/378757?type=post&order=create&pos=&page=1&channel=&subType=2)
 
 ### 陌陌
 
 - [陌陌数据仓库一面面经](https://www.nowcoder.com/discuss/55739)
+- [陌陌三面面经---大数据开发实习岗（已oc）](https://www.nowcoder.com/discuss/393669?type=post&order=create&pos=&page=1&channel=&subType=2)
 
 ### 蚂蚁金服
 
@@ -306,6 +348,10 @@
 
 - [趋势科技西安大唐西市酒店一二面](https://www.nowcoder.com/discuss/222664)
 
+### 七牛云
+
+- [七牛云实习后台开发（大数据）一面](https://www.nowcoder.com/discuss/408823?type=post&order=create&pos=&page=1&channel=&subType=2)
+
 ## R
 
 ## S
@@ -365,6 +411,12 @@
 
 -  [数字广东三面面经](https://www.nowcoder.com/discuss/336431) 
 
+### 上海银行
+
+- [上海银行一面 -- 大数据研发岗](https://www.nowcoder.com/discuss/397903?type=post&order=create&pos=&page=1&channel=&subType=2)
+
+## T
+
 ### 腾讯
 
 - [腾讯游戏数据挖掘实习一面](https://www.nowcoder.com/discuss/160713)
@@ -379,6 +431,12 @@
 - [腾讯一二面 大数据开发](https://www.nowcoder.com/discuss/246194)
 - [腾讯大数据 三面面经](https://www.nowcoder.com/discuss/254662)
 - [大数据岗-社招-一面-凉](https://www.nowcoder.com/discuss/377591)
+- [腾讯微保实习二面（数据开发工程师）](https://www.nowcoder.com/discuss/413535?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [腾讯数分岗面经](https://www.nowcoder.com/discuss/411931?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [腾讯pcg 数据分析 一二面+HR面 面经](https://www.nowcoder.com/discuss/411072?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [腾讯暑期实习数据分析-一面](https://www.nowcoder.com/discuss/403805?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [腾讯数据分析全四面面经，顺便许愿HR面](https://www.nowcoder.com/discuss/392709?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [腾讯暑期 数据分析一面+二面](https://www.nowcoder.com/discuss/384789?type=post&order=create&pos=&page=1&channel=&subType=2)
 
 ## U
 
@@ -412,6 +470,10 @@
 - [网易暑期实习数据分析岗位笔试&一面](https://www.nowcoder.com/discuss/179362)
 - [网易杭州－数据分析师面试（杭研）](https://www.nowcoder.com/discuss/35548)
 - [网易大数据开发二面](https://www.nowcoder.com/discuss/229184)
+- [20200421 网易严选大数据开发实习二面](https://www.nowcoder.com/discuss/413727?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [网易严选实习（二面）大数据开发](https://www.nowcoder.com/discuss/413350?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [网易云音乐2020大数据开发实习生一面面经|：(](https://www.nowcoder.com/discuss/410601?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [20200414 网易严选大数据开发实习一面面经](https://www.nowcoder.com/discuss/408068?type=post&order=create&pos=&page=1&channel=&subType=2)
 
 ### 微众
 
@@ -434,6 +496,10 @@
 - [携程大数据分析二面](https://www.nowcoder.com/discuss/98171)
 - [8.28携程大数据分析面经（已收到offer）](https://www.nowcoder.com/discuss/35813)
 - [携程大数据分析，首面面经攒人品](https://www.nowcoder.com/discuss/41529)
+- [携程大数据开发工程师一面面经 ](https://www.nowcoder.com/discuss/407847?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [2020.4.1攒人品！携程数据分析笔经（综合测评+专业笔试](https://www.nowcoder.com/discuss/398240?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [携程2020春招笔试——数据分析方向（真题回忆版）](https://www.nowcoder.com/discuss/398164?type=post&order=create&pos=&page=0&channel=&subType=2)
+- [携程笔试 -- 大数据分析岗](https://www.nowcoder.com/discuss/398100?type=post&order=create&pos=&page=1&channel=&subType=2)
 
 ### 小米
 
@@ -477,6 +543,7 @@
 - [招银网络offer get （附面经）](https://www.nowcoder.com/discuss/303401)
 - [招银网络科技面经](https://www.nowcoder.com/discuss/281515)
 - [招银网络一面凉经~](https://www.nowcoder.com/discuss/291262)
+- [招商银行信用卡中心 大数据一面凉经... ](https://www.nowcoder.com/discuss/408579?type=post&order=create&pos=&page=1&channel=&subType=2)
 
 ### 祖龙娱乐
 
@@ -489,6 +556,19 @@
 ### 中兴
 
 - [中兴一面面经](https://www.nowcoder.com/discuss/279807)
+
+### 作业帮
+
+- [作业帮大数据开发岗一面面经](https://www.nowcoder.com/discuss/402987?type=post&order=create&pos=&page=0&channel=&subType=2)
+- [作业帮实习一面二面三面（数据研发实习生）](https://www.nowcoder.com/discuss/396947?type=post&order=create&pos=&page=1&channel=&subType=2)
+
+### 中国移动
+
+- [中移在线湖北分公司数据分析（大数据工程师）岗 ](https://www.nowcoder.com/discuss/385024?type=post&order=create&pos=&page=1&channel=&subType=2)
+
+### 中邮消费金融科技
+
+- [2020-春招-中邮消费金融科技-大数据开发面经](https://www.nowcoder.com/discuss/384233?type=post&order=create&pos=&page=1&channel=&subType=2)
 
 ## 其他
 
@@ -508,6 +588,10 @@
 - [360大数据开发二面](https://www.nowcoder.com/discuss/180863)
 - [360数分面经](https://www.nowcoder.com/discuss/234672)
 - [奇虎360社招面经：大数据计算存储高级开发](https://www.nowcoder.com/discuss/361497)
+- [360_二面：数据智能-大数据分析工程师-南京](https://www.nowcoder.com/discuss/409073?type=post&order=create&pos=&page=0&channel=&subType=2)
+- [360 核心安全-大数据开发工程师-一面](https://www.nowcoder.com/discuss/404650?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [360_一面：数据智能-大数据分析工程师-南京](https://www.nowcoder.com/discuss/404151?type=post&order=create&pos=&page=1&channel=&subType=2)
+- [360-核心安全-大数据开发（一面）](https://www.nowcoder.com/discuss/403902?type=post&order=create&pos=&page=1&channel=&subType=2)
 
 
 ### 个人面多公司
@@ -629,4 +713,16 @@
 - [春招面经（Java，大数据开发岗位），持续更新](https://www.nowcoder.com/discuss/376702)
 
 -  [上海公司大数据面试题(面经)](https://www.nowcoder.com/discuss/362241)
+
+-  [字节、蘑菇街和网易的大数据实习面经](https://www.nowcoder.com/discuss/411313?type=post&order=create&pos=&page=0&channel=&subType=2)
+
+-  [大数据研发、java研发实习面经阿里腾讯字节跳动](https://www.nowcoder.com/discuss/408566?type=post&order=create&pos=&page=1&channel=&subType=2)
+
+-  [字节腾讯大数据凉经](https://www.nowcoder.com/discuss/405242?type=post&order=create&pos=&page=0&channel=&subType=2)
+
+-  [字节阿里德勤数据分析/机器学习方向经验贴（已字节offer）](https://www.nowcoder.com/discuss/402222?type=post&order=create&pos=&page=1&channel=&subType=2)
+
+-  [数据分析春秋招面试长文总结](https://www.nowcoder.com/discuss/391122?type=post&order=create&pos=&page=1&channel=&subType=2)
+
+-  [春招面经（Java，大数据开发岗位），持续更新](https://www.nowcoder.com/discuss/376702?type=post&order=create&pos=&page=1&channel=&subType=2)
 
