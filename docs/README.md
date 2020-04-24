@@ -10,6 +10,7 @@
 - [这两年在大数据行业中的工作总结](http://blog.jobbole.com/114185/)
 - [三个月成为大数据工程师，你需要具备什么条件？](https://www.cnblogs.com/luminji/p/7824831.html)
 - [技术好文-携程技术专家：从事大数据，你需要掌握这些技能！](https://www.nowcoder.com/discuss/28449)
+- [厦大数据库实验室博客 | 总结、分享、收获](http://dblab.xmu.edu.cn/blog/)
 
 # 笔试真题
 
@@ -17,21 +18,29 @@
 - [DBA（数据分析，数据库，大数据等）相关历年公司笔试真题汇总](https://www.nowcoder.com/discuss/211242)
 - [大数据工程师历年企业笔试真题汇总](https://www.nowcoder.com/discuss/211222)
 
-
-
-
-
-
-
 # 开源项目
 
 - [BigData-Notes](https://github.com/heibaiying/BigData-Notes)
 
+# 教程
 
+- [大数据学习路线图](http://dblab.xmu.edu.cn/post/bigdataroadmap/)
+- [Scala教程](http://allaboutscala.com/)
+- [Spark教程](http://allaboutscala.com/big-data/spark/)
 
+# 官网文档
 
+- [Scala Documentation](https://docs.scala-lang.org/tour/tour-of-scala.html)
+- [PySpark master documentation](https://spark.apache.org/docs/latest/api/python/index.html)
+- [HDFS Users Guide](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/HdfsUserGuide.html)
+- [Flume 1.9.0 User Guide — Apache Flume](https://flume.apache.org/releases/content/1.9.0/FlumeUserGuide.html)
 
+# 平台
 
+- [databricks](https://databricks.com/)
+- [厦门大学数据库实验室](http://dblab.xmu.edu.cn/)
+
+- [腾讯云大数据基础团队 - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/team/BigDataBaseService/info)
 
 
 
